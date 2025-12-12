@@ -1,0 +1,10 @@
+﻿@model Presents.Data.Entities.Gift
+
+<div class="padding: 100px text-center">
+    <h1 class="display-4 mb-lg-5 text-center" style="font-family: 'Times New Roman', Times, serif; padding: 80px">Изтеглен подарък: </h1>
+    <p class="mb-3 text-center text-dark text-black" style="font-size:36px; font-family: 'Times New Roman' , Times, serif;">@Model.Name - @Model.Decription</p>
+    <br />
+    <br />
+    <a asp-controller="Home" asp-action="Index" class="btn btn-secondary d-inline btn-lg">Back</a>
+</div>
+

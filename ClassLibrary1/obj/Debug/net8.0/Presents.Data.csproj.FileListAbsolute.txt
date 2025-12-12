@@ -1,0 +1,14 @@
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\Presents.Data.deps.json
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\Presents.Data.runtimeconfig.json
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\Presents.Data.dll
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\bin\Debug\net8.0\Presents.Data.pdb
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Presents.Data.csproj.AssemblyReference.cache
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Presents.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Presents.Data.AssemblyInfoInputs.cache
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Presents.Data.AssemblyInfo.cs
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Presents.Data.csproj.CoreCompileInputs.cache
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Presents.Data.dll
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\refint\Presents.Data.dll
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Presents.Data.pdb
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\Presents.Data.genruntimeconfig.cache
+C:\Users\Student1\Desktop\Krasimir Parov arsenal\12.12.2025\ClassLibrary1\ClassLibrary1\obj\Debug\net8.0\ref\Presents.Data.dll

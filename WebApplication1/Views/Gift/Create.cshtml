@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Presents.Data.Entities.Gift
+<h2 class="text-black">Create gift: </h2>
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Decription" class="form-label">Description</label>
+        <input asp-for="Decription" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="ImageURL" class="form-label">Image URL</label>
+        <input asp-for="ImageURL" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="CategoryID" class="form-label">Category</label>
+        <select asp-for="CategoryID" asp-items="ViewBag.Categories" class="form-select"></select>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Taken</label>
+        <div>
+            <input type="radio" asp-for="IsTaken" value="true" id="true" />
+            <label for="taken-true">Yes</label>
+            <br />
+            <input type="radio" asp-for="IsTaken" value="false" id="false" />
+            <label for="taken-false">No</label>
+        </div>
+    </div>
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </div>
+</form>

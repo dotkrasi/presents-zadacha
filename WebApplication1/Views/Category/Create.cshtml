@@ -1,0 +1,12 @@
+﻿@model Presents.Data.Entities.Category
+<h2 class="text-black">Create category: </h2>
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <a asp-action="Index" asp-controller="Category" class="btn btn-secondary">Back</a>
+    </div>
+</form>
